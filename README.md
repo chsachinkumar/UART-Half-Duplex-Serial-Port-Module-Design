@@ -14,4 +14,4 @@ In this project, designed UART is operated at the baud rate of 115200 Hz to sync
 **4.** Digital System Design (DSD)<br />
 **5.** Simulation Results based on power efficiency, thermal expansion and speed of data transfer.<br />
 
-## Thank You
+#### Thank You
