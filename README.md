@@ -5,11 +5,11 @@ The UART stands for **Universal Asynchronous Receiver/Transmitter**. It is a ser
 
 In this project, designed UART is operated at the baud rate of 115200 Hz to synchronize transmitting and receiving UART. This project is designed for an study of basic UART module hence there is no parity module used.
 
-**Topics focused:**
-**1.** Introduction of UART and it's type
-**2.** Bitstream (Packet Sniffing)
-**3.** FSM model
-**4.** Digital System Design (DSD)
-**5.** Simulation Results based on power efficiency, thermal expansion and speed of data transfer.
+**Topics focused:**<br />
+**1.** Introduction of UART and it's type<br />
+**2.** Bitstream (Packet Sniffing)<br />
+**3.** FSM model<br />
+**4.** Digital System Design (DSD)<br />
+**5.** Simulation Results based on power efficiency, thermal expansion and speed of data transfer.<br />
 
 #Thank You
