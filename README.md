@@ -1,13 +1,13 @@
 # UART Half Duplex Serial Port Module Design
 This repository contains an **Front-End VLSI Projects** (ASIC)<br />
 
-<div style="text-align: justify">The UART stands for <b>Universal Asynchronous Receiver/Transmitter</b>. It is a serial communication technique that eliminates the need of a clock to facilitate communication between two separate components on a device. In this project, I have explored UART, one of the most widely used communication interfaces that is crucial for microcontroller, computers, and packet sniffing. The design of a high speed UART is the main topic of this project. The study begins by using Verilog HDL to describe the behavior of a UART. This study will focus on transmitting and receiving of 1-byte data through designed UART.
+<div style="text-align: justify">The <b>Universal Asynchronous Receiver/Transmitter</b>, or <b>UART</b>, is a method of serial communication that does not require a clock to transmit information between separate components within a device. The project examines the use of UART, a commonly used communication interface that is essential for microcontrollers, computers, and packet sniffing. The primary focus of the project is the design of a high-speed UART. The project utilizes Verilog HDL to describe the behavior of a UART, specifically focusing on the transmission and reception of one-byte data through the designed UART.
 </br>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/84460209/214364721-ed5c3864-e25b-49c5-a389-a3771f32ab96.png" />
 </p>
-In this project, designed UART is operated at the baud rate of 115200 Hz to synchronize transmitting and receiving UART. This project is designed for an study of basic UART module hence no parity module used.</div>
+The project features a designed UART that operates at a baud rate of 115200 Hz to coordinate the transmission and reception of UART. The project is intended for a basic study of UART module, thus, no parity module is utilized.</div>
 </br>
 
 **Topics focused:**<br />
